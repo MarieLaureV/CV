@@ -1,0 +1,92 @@
+header{
+	height: 300px;
+	width:auto;
+	background-color: #677273;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column; 
+		margin: 0px
+}
+.menu	{border: 5px;
+		height: 50px;
+		width:auto;
+		background-color: #555d5e;
+		display: flex;
+		justify-content: space-around;
+		
+	}
+.apropos {height: 300px;
+			width:250px;
+			background-color: #f8f8f8;
+			color: grey;
+			}
+
+.exp {height: 300px;
+			width:auto;
+			background-color: #f8f8f8;
+			color: grey;}
+
+.leftexp{width: 45%;
+float: left;
+}
+
+.photo{display:flex;
+	align-content: center;
+	justify-content: center;
+}
+h1 {color: white;
+	font-family: roboto, sans-serif;
+	text-align: center; 
+	}/* Je colore le premier paragraphe*/
+
+h2{color: grey;
+	font-family: roboto, sans-serif;
+	text-align: center; 
+	}
+
+h3{color: grey;
+	font-family: roboto, sans-serif;
+	text-align: center; 
+	}
+
+
+	p {color: black;
+		text-align: center;
+		font-family: roboto, sans-serif;
+		text-align: justify;
+	}
+
+	/*Changerol'alignement d'un des textes*/
+
+	/* On travaille sur la balise body, donc sur TOUTE la page */		
+
+
+	
+	a
+        {
+        text-decoration-line: none;
+        text-decoration-style: solid;
+        text-decoration-color: currentcolor;
+        color:white;
+}
+
+
+
+
+
+
+	/*le menu est placé en colonne tout en haut*/
+
+			/*	nav
+				{
+					{
+						
+ /*h1
+{
+    border: 3px grey dashed;
+}
+Définir une ombre à un élément*/
+
+taper border 1 voir les bordures, les blocs
+F12 inspecteur et modifier pour voir margin padding
